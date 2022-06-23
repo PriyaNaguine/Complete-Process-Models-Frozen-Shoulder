@@ -1,6 +1,6 @@
 # Complete-Process-Models
 
-This repository contains the complete process models for the research paper by Priya Naguine titled "Process Comparison and Bottleneck Analysis for Subpopulations of Patients Diagnosed with Frozen Shoulder"
+This repository contains the complete process models for the research paper by Priya Naguine titled "Process Comparison and Bottleneck Analysis for Subpopulations of Patients Diagnosed with Frozen Shoulder."
 
 The repository contains the following process models:
 1. [age_above_60_IVM.png][1]: This contains the process model for the care paths of frozen shoulder patients aged above 60. This process model was created using the **Mine with Inductive visual Miner** plugin in ProM.
